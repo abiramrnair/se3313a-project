@@ -1,2 +1,3 @@
 # se3313a-project
-3313 Final Project
+Assignment: 3313 Final Project
+Group Members: Joseph Motha, Sibtain Manesiya, Moxi Guo, Abiram Nair
